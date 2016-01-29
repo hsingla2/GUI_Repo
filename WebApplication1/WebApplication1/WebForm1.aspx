@@ -43,6 +43,8 @@
 
             <asp:Button ID="btnSearch" Text="Search" runat="server" OnClick="btnSearch_Click" />
 
+            <label></label>
+
         </div>
     </form>
 </body>
