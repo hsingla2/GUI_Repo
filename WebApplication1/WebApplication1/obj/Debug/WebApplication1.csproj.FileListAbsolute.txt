@@ -1,0 +1,8 @@
+D:\ADB_Work\POC\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\ADB_Work\POC\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\ADB_Work\POC\WebApplication1\WebApplication1\bin\Telerik.Web.Design.dll
+D:\ADB_Work\POC\WebApplication1\WebApplication1\bin\Telerik.Web.UI.dll
+D:\ADB_Work\POC\WebApplication1\WebApplication1\bin\Telerik.Web.UI.Skins.dll
+D:\ADB_Work\POC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\ADB_Work\POC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ADB_Work\POC\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
